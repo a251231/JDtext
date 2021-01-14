@@ -42,3 +42,4 @@ jobs:
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
           PUSH_PLUS_TOKEN: ${{ secrets.PUSH_PLUS_TOKEN }}
           PUSH_PLUS_USER: ${{ secrets.PUSH_PLUS_USER }}
+          JD_COOKIE: ${{ secrets.JD_COOKIE }}
